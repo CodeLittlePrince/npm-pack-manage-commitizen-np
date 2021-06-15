@@ -9,10 +9,12 @@
     "@commitlint/config-conventional": "^12.1.4",
     "conventional-changelog-cli": "^2.1.1",
     "cz-conventional-changelog": "^3.3.0",
-    "husky": "^4.2.3"
+    "husky": "^4.2.3",
+    "np": "^7.5.0"
   },
   "scripts": {
-    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
+    "release": "np"
   },
   "repository": {
     "type": "git",
