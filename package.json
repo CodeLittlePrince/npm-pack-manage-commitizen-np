@@ -1,6 +1,6 @@
 {
   "name": "codelittleprice-npm-pack-manage-commitizen-np",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "dependencies": {},
@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://npm-pack-manage-commitizen-np.git"
+    "url": "git+https://github.com/CodeLittlePrince/npm-pack-manage-commitizen-np.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://npm-pack-manage-commitizen-np/issues"
+    "url": "https://github.com/CodeLittlePrince/npm-pack-manage-commitizen-np/issues"
   },
-  "homepage": "https://npm-pack-manage-commitizen-np#readme",
+  "homepage": "https://github.com/CodeLittlePrince/npm-pack-manage-commitizen-np#readme",
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
