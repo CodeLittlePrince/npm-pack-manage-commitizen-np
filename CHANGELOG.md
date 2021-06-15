@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/CodeLittlePrince/npm-pack-manage-commitizen-np/compare/v1.0.3...v1.0.4) (2021-06-15)
+
+
+### Features
+
+* version??? ([30e996e](https://github.com/CodeLittlePrince/npm-pack-manage-commitizen-np/commit/30e996ee88c694318a59582639e49bf06d11452c))
+
+
+
 ## [1.0.2](https://github.com/CodeLittlePrince/npm-pack-manage-commitizen-np/compare/v1.0.3...v1.0.2) (2021-06-15)
 
 
