@@ -1,3 +1,22 @@
+## [1.0.3](/compare/v0.0.1...v1.0.3) (2021-06-15)
+
+
+### chore
+
+* **package:** add np for release b0a39c0
+
+
+### Features
+
+* change npm package 8ba063e
+
+
+### BREAKING CHANGES
+
+* **package:** use npm run release
+
+
+
 ## [1.0.2](https://github.com/CodeLittlePrince/semantic-release-test/compare/v0.0.1...v1.0.2) (2021-06-15)
 
 
