@@ -1,6 +1,6 @@
 {
-  "name": "semantic-release",
-  "version": "1.0.0",
+  "name": "codelittleprice-npm-pack-manage-commitizen-np",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "dependencies": {},
@@ -14,19 +14,19 @@
   },
   "scripts": {
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
-    "release": "np"
+    "release": "np --skip-2fa"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeLittlePrince/semantic-release-test.git"
+    "url": "git+https://npm-pack-manage-commitizen-np.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CodeLittlePrince/semantic-release-test/issues"
+    "url": "https://npm-pack-manage-commitizen-np/issues"
   },
-  "homepage": "https://github.com/CodeLittlePrince/semantic-release-test#readme",
+  "homepage": "https://npm-pack-manage-commitizen-np#readme",
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"

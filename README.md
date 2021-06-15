@@ -1,1 +1,2 @@
-# semantic-release-test
+# 包管理
+commitlint + np
