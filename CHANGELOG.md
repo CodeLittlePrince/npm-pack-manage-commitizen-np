@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/CodeLittlePrince/npm-pack-manage-commitizen-np/compare/v1.0.4...v1.0.5) (2021-06-16)
+
+
+### Features
+
+* amazine ([43897cf](https://github.com/CodeLittlePrince/npm-pack-manage-commitizen-np/commit/43897cfa55f7f66b00617c4f681f992010980816)), closes [#3](https://github.com/CodeLittlePrince/npm-pack-manage-commitizen-np/issues/3)
+
+
+
 ## [1.0.4](https://github.com/CodeLittlePrince/npm-pack-manage-commitizen-np/compare/v1.0.3...v1.0.4) (2021-06-15)
 
 
